@@ -1,5 +1,13 @@
 # CSU-K-Toolkit
-This is the CSU-K toolkit for spoken call shared task 2. It contains several scripts, models and other data.
+This is the CSU-K toolkit for spoken call shared task 2. It contains several scripts, models and other data. Those files have been used to develop our two CSU-K ST2 systems, which you can find here:
+
+* [CSU-K-DNN-Based-System](https://github.com/Snow-White-Group/The-CSU-K-DNN-Based-System-for-the-2nd-Edition-Spoken-CALL-Shared-Task)
+* [CSU-K-Rule-Based-System](https://github.com/Snow-White-Group/The-CSU-K-Rule-Based-System-for-the-2nd-Edition-Spoken-CALL-Shared-Task)
+
+Furthermore there is a tutorial paper, which explains the shared task and our systems in more detail:
+
+* [Tutorial paper](https://github.com/Snow-White-Group/CSU-K-Toolkit/blob/master/CSU-K-ST2-Tutorial.pdf), please note that this is not an officially published paper
+
 
 |  Order   | ScriptName                                   | Input                                      |   Output                                                                        |   notes                                                         |
 |  ------- | -------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------- | --------------------------------------------------------------- |
