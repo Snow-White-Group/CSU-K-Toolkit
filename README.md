@@ -9,6 +9,23 @@ Furthermore there are (not officially published) papers, which explain the Toolk
 * [Tutorial paper](https://github.com/Snow-White-Group/CSU-K-Toolkit/blob/master/CSU-K-ST2-Tutorial.pdf)
 * [DNN-Based-System paper](https://github.com/Snow-White-Group/The-CSU-K-DNN-Based-System-for-the-2nd-Edition-Spoken-CALL-Shared-Task/blob/master/CSU-K-ST2-DNN-Based-System.pdf)
 
+## Citation
+If you use parts of this toolkit (including papers), please make sure to cite our paper at Interspeech 2018. See [https://www.isca-speech.org/archive/Interspeech_2018/abstracts/1000.html](https://www.isca-speech.org/archive/Interspeech_2018/abstracts/1000.html).
+
+Cite as: _Jülg, D., Kunstek, M., Freimoser, C.P., Berkling, K., Qian, M. (2018) The CSU-K Rule-Based System for the 2nd Edition Spoken CALL Shared Task. Proc. Interspeech 2018, 2359-2363, DOI: 10.21437/Interspeech.2018-1000._
+```
+@inproceedings{Jülg2018,
+  author={Dominik Jülg and Mario Kunstek and Cem Philipp Freimoser and Kay Berkling and Mengjie Qian},
+  title={The CSU-K Rule-Based System for the 2nd Edition Spoken CALL Shared Task},
+  year=2018,
+  booktitle={Proc. Interspeech 2018},
+  pages={2359--2363},
+  doi={10.21437/Interspeech.2018-1000},
+  url={http://dx.doi.org/10.21437/Interspeech.2018-1000}
+}
+```
+
+## Script descriptions
 
 |  Order   | ScriptName                                   | Input                                      |   Output                                                                        |   notes                                                         |
 |  ------- | -------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------- | --------------------------------------------------------------- |
